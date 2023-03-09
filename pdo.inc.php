@@ -1,3 +1,3 @@
 <?php
 
-    $conect = new PDO("mysql:host=localhost;dbname=tudo_data_base");
+$conect = new PDO("mysql:host=localhost;dbname=tudo_data_base", 'root','');
